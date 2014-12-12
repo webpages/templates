@@ -1,4 +1,4 @@
-Template system for WebPages framework
+Template system for WebPages
 ===
 
 This template system is very similar to **YAML** format or **Python** code, but designed to render **HTML**.
