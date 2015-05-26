@@ -9,6 +9,7 @@ This template system is very similar to **YAML** format or **Python** code, but 
 #### TODO:
 
 - [ ] **[#2. Create parser for basic constructions](../../issues/2)**
+- [ ] [#3. Test template engine on Django framework](../../issues/3)
 - [x] ~~[#1. Add backend to support Django framework](../../issues/1)~~
 
 
