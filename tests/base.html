@@ -1,0 +1,18 @@
+use: bootstrap3.0
+
+body:
+  div.row:
+    div.col-md-4:
+      a href=/: Home page
+      a href=/blog: Blog
+      $sidebar_links
+
+    div.col-md-8:
+      div.top_menu: $top_menu_content
+      $page_content
+
+  div.row:
+    div.bottom_menu.col-md-12:
+      a href=/: Home page
+      a href=/blog: Blog
+      $bottom_menu_links
